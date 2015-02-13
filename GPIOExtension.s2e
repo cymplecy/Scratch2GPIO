@@ -1,0 +1,1 @@
+{"menus": {"pins": ["15", "7"],"onoroff": ["on", "off"]}, "extensionPort": 1234, "blockSpecs": [["w", "scratch gpio %s", "scratch_gpio", "text"],["w", "set pin %m.pins to %m.onoroff", "set_pin", "15","off"]], "extensionName": "BlueBot"}
